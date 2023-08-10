@@ -1,7 +1,7 @@
-# TODO
+### TODO
 
-## usar js para pegar informações de onde esta sendo acessado.
+- [ ] Usar js para pegar informações de onde esta sendo acessado.
 
-## consumri api de previsao de tempo
+- [ ]  Consumir api de previsao de tempo
 
-## modo lightmode e darkmode
+- [ ]  Modo lightmode e darkmode
